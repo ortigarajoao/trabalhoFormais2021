@@ -5,3 +5,5 @@ class automatoFinito:
         self.estados = estados
         self.estadoInicial = estadoInicial
         self.estadosFinais = estadosFinais
+
+    e
