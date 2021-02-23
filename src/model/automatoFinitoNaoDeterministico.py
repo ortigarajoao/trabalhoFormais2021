@@ -1,4 +1,4 @@
-class automatoFinitoNaoDeterministico:
+class AutomatoFinitoNaoDeterministico:
 
     def __init__(self, alfabeto, estados, estadoInicial, estadosFinais, epsilon):
         self.alfabeto = alfabeto
