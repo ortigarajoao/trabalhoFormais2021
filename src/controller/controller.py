@@ -1,5 +1,5 @@
-from tkinter import *
 from view.mainWindow import MainWindow
+from tkinter import *
 
 class Controller:
     
